@@ -15,8 +15,6 @@
 # 🎓 Next Steps in my career
 🪜 As a believer of "Keep on learning" philosophy, I'm planning to continue doing 3D courses to reinforce that knowledge and try to create a little indie game. Also, I deeply desire to start learning about Blockchain development, but I prefer going step by step as free personal time is not infinite, and the university demands lot of my time. Finally, I would like to get into AI development world.
 
-🗣️ Want to book an interview? Here my [Calendly link](https://calendly.com/matias_ramirez_dev/30min)
-
 # Personal Projects
 * [core-backend](https://github.com/matigastirami/core-backend): This project is intended to be an SSO server for future projects I'm planning.
 * [John-Lemon](https://github.com/matigastirami/06_JohnLemmon): Little stealth game made in Unity, based on an official Unity course.
