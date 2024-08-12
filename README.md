@@ -2,7 +2,7 @@
 
 # 🚀 About Me
 
-👨‍💻I'm Matías Ramirez, a Full-Stack Software Developer from Argentina, nowadays working for a US company. 
+👨‍💻I'm Matías Ramirez, a Backend Software Developer from Argentina, nowadays working for a US company. 
 
 ⚙️ I love technology and that's why I'm not only a Developer, but also enjoy working with some hardware stuff as 3D printers and Arduino/Raspberry Pi. Apart from that, I'm a enthusiastic of the videogames desing so I decided to start learning 3D techniques last year (Modeling, Sculpting, Texturing and Animation), I consider I'm still a beginner but try to keep on learning almost everyday I dream on working on the game development industry some day 🎮. Though I mentioned a lot I'm a developer, it was not always the case. I started working in 2016 as a manual software tester and from there, it was a one way ticket to my current position. Learnt a lot of automation testing also and applied it to some projects I worked along my career, and the decided to switch to a programming position.
 
