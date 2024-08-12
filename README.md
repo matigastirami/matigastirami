@@ -16,7 +16,7 @@
 🪜 As a believer of "Keep on learning" philosophy, I'm planning to continue doing 3D courses to reinforce that knowledge and try to create a little indie game. Finally, I would like to get into AI development world.
 
 # Personal Projects
-* [core-backend](https://github.com/matigastirami/core-backend): This project is intended to be an SSO server for future projects I'm planning.
+* IdP: A competitive and cheaper proposal for managing your users and more (Available Q4 2024)
 * [John-Lemon](https://github.com/matigastirami/06_JohnLemmon): Little stealth game made in Unity, based on an official Unity course.
 * [More of my repos here...](https://github.com/matigastirami?tab=repositories)
 
