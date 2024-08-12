@@ -2,7 +2,7 @@
 
 # 🚀 About Me
 
-👨‍💻I'm Matías Ramirez, a Full-Stack Software Developer from Argentina, currently studying Computers Engineering in Buenos Aires Province (More especifically at [UNLaM](https://www.unlam.edu.ar/)). Nowadays working for a US company. 
+👨‍💻I'm Matías Ramirez, a Full-Stack Software Developer from Argentina, nowadays working for a US company. 
 
 ⚙️ I love technology and that's why I'm not only a Developer, but also enjoy working with some hardware stuff as 3D printers and Arduino/Raspberry Pi. Apart from that, I'm a enthusiastic of the videogames desing so I decided to start learning 3D techniques last year (Modeling, Sculpting, Texturing and Animation), I consider I'm still a beginner but try to keep on learning almost everyday I dream on working on the game development industry some day 🎮. Though I mentioned a lot I'm a developer, it was not always the case. I started working in 2016 as a manual software tester and from there, it was a one way ticket to my current position. Learnt a lot of automation testing also and applied it to some projects I worked along my career, and the decided to switch to a programming position.
 
@@ -13,7 +13,7 @@
 📖 Also, I love taking some time to read some books; being economics and finances my favorite categories.
 
 # 🎓 Next Steps in my career
-🪜 As a believer of "Keep on learning" philosophy, I'm planning to continue doing 3D courses to reinforce that knowledge and try to create a little indie game. Also, I deeply desire to start learning about Blockchain development, but I prefer going step by step as free personal time is not infinite, and the university demands lot of my time. Finally, I would like to get into AI development world.
+🪜 As a believer of "Keep on learning" philosophy, I'm planning to continue doing 3D courses to reinforce that knowledge and try to create a little indie game. Finally, I would like to get into AI development world.
 
 # Personal Projects
 * [core-backend](https://github.com/matigastirami/core-backend): This project is intended to be an SSO server for future projects I'm planning.
