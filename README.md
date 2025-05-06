@@ -10,10 +10,9 @@
 
 🚗 I love driving and going on vacation using the car to travel in Argentina, my last vacation was 1000km driving with my girlfriend and it was a great experience. I also went to a Ski center in Mendoza Province called "Las Leñas". Mendoza is known as the "Land of wine", so I don't need to mention I visited some wineries to taste some of the best wines Argentina produces and exports to all over the world 😅.
 
-📖 Also, I love taking some time to read some books; being economics and finances my favorite categories.
+📖 Also, I love taking some time to read some books; being the ones about videogames ad engines development.
 
-# 🎓 Next Steps in my career
-🪜 As a believer of "Keep on learning" philosophy, I'm planning to continue doing 3D courses to reinforce that knowledge and try to create a little indie game. Finally, I would like to get into AI development world.
+☎️ Want to talk? [Book a time here](https://calendly.com/matias_ramirez_dev/30min)
 
 # Personal Projects
 * IdP: A competitive and cheaper proposal for managing your users and more (Available Q4 2024)
