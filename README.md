@@ -2,7 +2,7 @@
 
 # 🚀 About Me
 
-👨‍💻I'm Matías Ramirez, a Backend Software Developer from Argentina, nowadays working for a US company. 
+👨‍💻I'm Matías Ramirez, a Fullstack Software Developer from Argentina, nowadays working for a US company. 
 
 ⚙️ I love technology and that's why I'm not only a Developer, but also enjoy working with some hardware stuff as 3D printers and Arduino/Raspberry Pi. Apart from that, I'm a enthusiastic of the videogames desing so I decided to start learning 3D techniques last year (Modeling, Sculpting, Texturing and Animation), I consider I'm still a beginner but try to keep on learning almost everyday I dream on working on the game development industry some day 🎮. Though I mentioned a lot I'm a developer, it was not always the case. I started working in 2016 as a manual software tester and from there, it was a one way ticket to my current position. Learnt a lot of automation testing also and applied it to some projects I worked along my career, and the decided to switch to a programming position.
 
@@ -15,7 +15,7 @@
 ☎️ Want to talk? [Book a time here](https://calendly.com/matias_ramirez_dev/30min)
 
 # Personal Projects
-* IdP: A competitive and cheaper proposal for managing your users and more (Available Q4 2024)
+* TangoStudent: An AI copilot for language teachers (Soon to be released) [Visit site](http://tangostudent.com)
 * [John-Lemon](https://github.com/matigastirami/06_JohnLemmon): Little stealth game made in Unity, based on an official Unity course.
 * [More of my repos here...](https://github.com/matigastirami?tab=repositories)
 
