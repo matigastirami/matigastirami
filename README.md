@@ -4,26 +4,25 @@
 
 👨‍💻I'm Matías Ramirez, a Fullstack Software Developer from Argentina, nowadays working for a US company. 
 
-⚙️ I love technology and that's why I'm not only a Developer, but also enjoy working with some hardware stuff as 3D printers and Arduino/Raspberry Pi. Apart from that, I'm a enthusiastic of the videogames desing so I decided to start learning 3D techniques last year (Modeling, Sculpting, Texturing and Animation), I consider I'm still a beginner but try to keep on learning almost everyday I dream on working on the game development industry some day 🎮. Though I mentioned a lot I'm a developer, it was not always the case. I started working in 2016 as a manual software tester and from there, it was a one way ticket to my current position. Learnt a lot of automation testing also and applied it to some projects I worked along my career, and the decided to switch to a programming position.
+I'm a product-minded developer who strives to make any product to success, and due to that, I'm kind of language agnostic, I can adapt even to languages I've never worked on in record time. I also define myself as a can-do person who does not say no to any responsibility when it comes to tasks that moves me out from my comfort-zone.
 
-⌨️ Regarding the technologies I use or know, during my work as a Full-Stack, I've used React.JS, Node.JS, Express, NestJS and also a bit of Vue.JS in my current job. 
+I'm working on a side-project that aims to help language institutions to evaluate students faster and smarter through the use of AI. 
 
-🚗 I love driving and going on vacation using the car to travel in Argentina, my last vacation was 1000km driving with my girlfriend and it was a great experience. I also went to a Ski center in Mendoza Province called "Las Leñas". Mendoza is known as the "Land of wine", so I don't need to mention I visited some wineries to taste some of the best wines Argentina produces and exports to all over the world 😅.
+My preference is working at product startups, and though I don't have any problem with any stage, I'd like series pre-seed, seed, and A the most as they have environments in which I can get my hands dirty and fully understand the domain and users' preferences.
 
-📖 Also, I love taking some time to read some books; being the ones about videogames ad engines development.
-
-☎️ Want to talk? [Book a time here](https://calendly.com/matias_ramirez_dev/30min)
+# ☎️ Want to talk?
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/matias-ramirez-dev/)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:matigastirami@gmail.com)
+[Book a time here](https://calendly.com/matias_ramirez_dev/30min)
 
 # Personal Projects
 * TangoStudent: An AI copilot for language teachers (Soon to be released) [Visit site](http://tangostudent.com)
-* [John-Lemon](https://github.com/matigastirami/06_JohnLemmon): Little stealth game made in Unity, based on an official Unity course.
 * [More of my repos here...](https://github.com/matigastirami?tab=repositories)
 
 # Skills
 ## Languages
 ![javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![csharp](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=CSharp&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Frameworks/Libraries
@@ -64,9 +63,3 @@
 
 ## 3D tools
 ![blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=black)
-
-# Links
-
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/matigastirami)
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/matias-ramirez-dev/)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:matigastirami@gmail.com)
