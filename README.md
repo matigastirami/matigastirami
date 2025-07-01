@@ -57,9 +57,3 @@ My preference is working at product startups, and though I don't have any proble
 
 ## Other tools
 ![rabbitmq](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=white)
-
-## Game development
-![unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
-
-## 3D tools
-![blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=black)
