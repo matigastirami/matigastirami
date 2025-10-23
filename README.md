@@ -15,7 +15,8 @@ My preference is working at product startups, and though I don't have any proble
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:matigastirami@gmail.com)
 
 # Personal Projects
-* TangoStudent: An AI copilot for language teachers (Soon to be released) [Visit site](http://tangostudent.com)
+* Expensegram: A Telegram chatbot that helps you track your expenses and reduce costs
+* Agarralapalabot: A Telegram chatbot that helps you land your next startup job
 * [More of my repos here...](https://github.com/matigastirami?tab=repositories)
 
 # Skills
