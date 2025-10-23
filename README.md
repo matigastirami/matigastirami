@@ -13,7 +13,6 @@ My preference is working at product startups, and though I don't have any proble
 # ☎️ Want to talk?
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/matias-ramirez-dev/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:matigastirami@gmail.com)
-[Book a time here](https://calendly.com/matias_ramirez_dev/30min)
 
 # Personal Projects
 * TangoStudent: An AI copilot for language teachers (Soon to be released) [Visit site](http://tangostudent.com)
